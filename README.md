@@ -9,3 +9,37 @@
 Build. Experiment. Iterate. Ship.
 
 ---
+
+## Development Environment
+- [Zed](https://github.com/zed-industries/zed) — Rust-powered, low-latency editor with native AI integration
+
+### macOS
+- [AltTab](https://github.com/lwouis/alt-tab-macos) — Windows-style window switcher with live window previews
+- [Mos](https://github.com/Caldis/Mos) — makes regular (non-Apple) mice work correctly on macOS with smooth scrolling and proper acceleration
+
+## Linux / Servers
+- [lnav](https://lnav.org/) — terminal-based log file viewer with filtering and multi-source navigation
+
+## Meshtastic / Mesh / LoRa
+- [Meshtastic](https://meshtastic.org/) — main project site & docs for mesh radio networking
+- [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic) — core Python tools & utilities for Meshtastic
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) — firmware for Meshtastic devices (LoRa mesh)
+- [meshtastic/device-ui](https://github.com/meshtastic/device-ui) — device UI for Meshtastic hardware
+- [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) — Android app for Meshtastic
+- [meshtastic/Meshtastic-Apple](https://github.com/meshtastic/Meshtastic-Apple) — iOS app for Meshtastic
+
+- [gargomoma/fakeTec_pcb](https://github.com/gargomoma/fakeTec_pcb) — community PCB designs for Meshtastic / LoRa nodes
+- [Affirmatech/MeshSense](https://github.com/Affirmatech/MeshSense) — alternative Meshtastic firmware & mesh experimentation
+
+## Embedded / IoT
+- [ESPHome](https://esphome.io/) — configuration-first firmware framework for ESP-based devices with easy YAML automation
+- [esp8266_OLED_HW-364A](https://github.com/peff74/esp8266_OLED_HW-364A) — OLED display driver & example firmware for ESP8266 (HW-364A module)
+
+## CNC
+- [FluidNC](https://github.com/bdring/FluidNC) — ESP32-based CNC controller firmware with smooth path planning and hardware acceleration
+- [bCNC](https://github.com/vlachoudis/bCNC) — G-code sender & visualizer
+
+## 3D Modeling
+- [Fusion 360](https://www.autodesk.com/products/fusion-360) — parametric CAD/CAM for mechanical design and fabrication
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD) — open-source parametric CAD with extensible workbenches
+- [Plasticity](https://plasticity.xyz/) — modern NURBS-based solid modeling focused on precision hard-surface geometry
