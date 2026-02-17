@@ -34,6 +34,7 @@ Build. Experiment. Iterate. Ship.
 ## Embedded / IoT
 - [ESPHome](https://esphome.io/) — configuration-first firmware framework for ESP-based devices with easy YAML automation
 - [esp8266_OLED_HW-364A](https://github.com/peff74/esp8266_OLED_HW-364A) — OLED display driver & example firmware for ESP8266 (HW-364A module)
+- [yoradio](https://github.com/e2002/yoradio) — ESP-based internet radio firmware with web UI and audio streaming support
 
 ## CNC
 - [FluidNC](https://github.com/bdring/FluidNC) — ESP32-based CNC controller firmware with smooth path planning and hardware acceleration
