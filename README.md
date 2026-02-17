@@ -22,14 +22,14 @@ Build. Experiment. Iterate. Ship.
 
 ## Meshtastic / Mesh / LoRa
 - [Meshtastic](https://meshtastic.org/) — main project site & docs for mesh radio networking
-- [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic) — core Python tools & utilities for Meshtastic
+- [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic) — official Meshtastic project repository with docs and metadata for LoRa mesh networking
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) — firmware for Meshtastic devices (LoRa mesh)
 - [meshtastic/device-ui](https://github.com/meshtastic/device-ui) — device UI for Meshtastic hardware
 - [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) — Android app for Meshtastic
-- [meshtastic/Meshtastic-Apple](https://github.com/meshtastic/Meshtastic-Apple) — iOS app for Meshtastic
+- [meshtastic/Meshtastic-Apple](https://github.com/meshtastic/Meshtastic-Apple) — iOS/macOS app for Meshtastic
 
-- [gargomoma/fakeTec_pcb](https://github.com/gargomoma/fakeTec_pcb) — community PCB designs for Meshtastic / LoRa nodes
-- [Affirmatech/MeshSense](https://github.com/Affirmatech/MeshSense) — alternative Meshtastic firmware & mesh experimentation
+- [fakeTec_pcb](https://github.com/gargomoma/fakeTec_pcb) — open hardware PCB design for nRF52-based Meshtastic-compatible LoRa nodes
+- [MeshSense](https://github.com/Affirmatech/MeshSense) — desktop application for monitoring and visualizing Meshtastic mesh networks
 
 ## Embedded / IoT
 - [ESPHome](https://esphome.io/) — configuration-first firmware framework for ESP-based devices with easy YAML automation
