@@ -14,6 +14,7 @@ Build. Experiment. Iterate. Ship.
 - [Zed](https://github.com/zed-industries/zed) — Rust-powered, low-latency editor with native AI integration
 
 ### macOS
+- [LaunchNext](https://github.com/RoversX/LaunchNext) — open-source app launcher for macOS 26 that restores and enhances the classic Launchpad experience with customizable app grid and organization
 - [AltTab](https://github.com/lwouis/alt-tab-macos) — Windows-style window switcher with live window previews
 - [Mos](https://github.com/Caldis/Mos) — makes regular (non-Apple) mice work correctly on macOS with smooth scrolling and proper acceleration
 
